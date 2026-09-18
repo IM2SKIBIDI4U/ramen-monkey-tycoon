@@ -1,2 +1,1 @@
-# ramen-monkey-tycoon
-Created with Blink
+Its a Ramen Tycoon!!!
